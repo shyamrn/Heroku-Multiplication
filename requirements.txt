@@ -1,2 +1,2 @@
 streamlit==0.87.0
-python==3.9.4
+python>=3.9.4
